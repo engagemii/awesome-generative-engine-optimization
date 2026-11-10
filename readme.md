@@ -116,6 +116,10 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 ## Research & Papers
 
+### Datasets
+
+- [Engagemii Index free data](https://engagemii.com/sample) - Free AI visibility data: a 500-company US sample with score, which AI engines read about each company and how often, industry, location, tech stack and business relationships, plus a 1 million company list with AI visibility level. CC BY 4.0; also on [Kaggle](https://www.kaggle.com/datasets/gregorypellitteri/ai-visibility-of-500-us-companies), [Hugging Face](https://huggingface.co/datasets/engagemii-index/ai-visibility-us-500) and [GitHub](https://github.com/engagemii/engagemii-index-free-sample).
+
 ### Foundational Research
 
 - [GEO: Generative Engine Optimization](https://arxiv.org/abs/2311.09735) - Princeton/Georgia Tech/Allen Institute study showing 40% visibility improvements. *Introduces 9 core optimization tactics including cite sources, statistics, and quotations strategies that showed measurable results.*.
